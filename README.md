@@ -1,2 +1,2 @@
-# Programming-Support-Tool
-プログラミングを効率化する。自分用のツール
+# React-TypeScript-Electron-Sample
+React(TypeScript)+Electronのひな形。
